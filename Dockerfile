@@ -1,4 +1,4 @@
-FROM balenalib/armv7hf-alpine:3.15-run 
+FROM alpine:3.18
 
 WORKDIR /usr/src/app
 
